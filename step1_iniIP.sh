@@ -6,7 +6,7 @@ if [ `id -u` -ne 0 ]; then
 fi
 
 #requirement
-sudo apt-get upgrade
+#sudo apt-get upgrade
 sudo apt-get update --allow-releaseinfo-change
 sudo apt-get install gedit -y
 
