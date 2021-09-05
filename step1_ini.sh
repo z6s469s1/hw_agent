@@ -8,7 +8,6 @@ fi
 #requirement
 #sudo apt-get upgrade
 sudo apt-get update --allow-releaseinfo-change
-sudo apt-get install gedit -y
 
 #ip setting
 sudo rm /etc/dhcpcd.conf
