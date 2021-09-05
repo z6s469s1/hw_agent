@@ -10,7 +10,7 @@ cd hw_agent/
 ```shell=
 sudo sh step1_ini.sh
 ```
-- 重新開機都要重新跑
+- Rpi重新開機都要重新跑
 ```shell=
 sudo sh step2_run.sh
 ```
